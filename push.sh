@@ -2,7 +2,7 @@
 
 hub="hisplan"
 image_name="hmmratac"
-version="1.2.9"
+version="1.2.10"
 
 echo "Packaging ${hub}/${image_name}:${version}..."
 

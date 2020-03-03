@@ -9,7 +9,7 @@ HMMRATAC: a Hidden Markov ModeleR for ATAC-seq
 ## Usage
 
 ```
-HMMRATAC Version:	1.2.9
+HMMRATAC Version:	1.2.10
 Usage: java -jar HMMRATAC_V#_exe.jar
 
 Required Parameters:
